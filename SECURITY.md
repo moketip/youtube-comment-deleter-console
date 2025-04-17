@@ -18,9 +18,7 @@ We take security seriously. If you believe you have found a security vulnerabili
 **How to Report:**
 
 * **Preferred Method: Private Reporting:** Please use GitHub's **Private Vulnerability Reporting** feature. You can usually find this under the "Security" tab of the repository, then click "Report a vulnerability". This ensures your finding is disclosed privately and allows time for review and potential fixes before public disclosure.
-* **Alternative Method (Public Discussion):** If the issue is not sensitive or you cannot use private reporting, you may open a regular [GitHub Issue](https://github.com/moktetip/YOUR_REPOSITORY_NAME/issues) in this repository. Please **do not** include sensitive details (like exploit steps for a critical issue) in public issues.
-
-*(Remember to replace `YOUR_REPOSITORY_NAME` in the Issues link above with your actual repository name, e.g., `youtube-comment-deleter-console`)*
+* **Alternative Method (Public Discussion):** If the issue is not sensitive or you cannot use private reporting, you may open a regular [GitHub Issue](https://github.com/moktetip/youtube-comment-deleter-console/issues) in this repository. Please **do not** include sensitive details (like exploit steps for a critical issue) in public issues.
 
 **What to Include:**
 
